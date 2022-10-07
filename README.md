@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python, R, SQL, Java, and other fun stuff to do data analysis
 - 💞️ I’m looking to collaborate on whatever you might need help with. I'm just getting started out!
 - 📫 How to reach me kyle ryc at gmail
+- 🏫 Algonquin College 2022-2024
+
 
 <!---
 WildRyc/WildRyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
