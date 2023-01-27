@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on whatever you might need help with. I'm just getting started out!
 - 📫 How to reach me kyle ryc at gmail
 - 🏫 Algonquin College 2022-2024
+- ✨ https://wildryc.github.io
 
 
 <!---
