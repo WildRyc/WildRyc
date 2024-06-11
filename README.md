@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#, Java, Node.js, and other fun stuff
 - 💞️ I’m looking to collaborate on whatever you might need help with. I'm just getting started out!
 - 📫 How to reach me kyle ryc at gmail
-- 🏫 Algonquin College 2022-2024
+- 🏫 Algonquin College '24
 - ✨ https://wildryc.github.io
 
 
